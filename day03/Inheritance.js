@@ -43,7 +43,7 @@ console.log(student);
 student.study();
 student.eat();
 
-let teacher = new Teacher("Lucy Arya", 30, 150_000)
+let teacher = new Teacher("Lucy Arya", 30, 150_000);
 console.log(teacher);
 teacher.teach();
 teacher.eat();
