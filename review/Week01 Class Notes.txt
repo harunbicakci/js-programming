@@ -1,0 +1,30 @@
+Week01 Review:
+    Topics:
+        Core JavaScript
+
+        Asynchronious Programming: 
+                Promises
+                Async & Await
+
+        AI Tools:
+                Perplexity
+                Tabnine
+
+Interpreted Programming Languages: JavaScript, Python
+
+        Dynamically Typed
+
+        Interpreter => Runtime
+
+        varName = 100;
+        
+        let varName = 100;
+
+
+Compiled Programming Language:  Java, C#, C++, TypeScript
+
+        Statically Typed
+
+        Compiler => Compile Time
+
+        int varName;
