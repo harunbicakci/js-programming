@@ -2,7 +2,7 @@
 
 // let result = utility.square(9);
 // console.log(result);
-
+ß;
 // result = utility.cube(3);
 // console.log(result);
 
@@ -16,3 +16,11 @@ console.log(result);
 
 result = square(9);
 console.log(result);
+
+/* 
+../: outside the current directory
+
+./: current directory
+*/
+
+// import { .. , .. } from ...
